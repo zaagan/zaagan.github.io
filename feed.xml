@@ -1,203 +1,198 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://zaagan.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://zaagan.github.io/" rel="alternate" type="text/html" /><updated>2018-02-06T16:44:07+05:45</updated><id>http://zaagan.github.io/</id><title type="html">Ozesh Thapa [ a.k.a Zaagan ]</title><subtitle>A blog about technology and stuff</subtitle><entry><title type="html">Markdown Common Elements</title><link href="http://zaagan.github.io/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" /><published>2016-02-24T22:44:00+05:45</published><updated>2016-02-24T22:44:00+05:45</updated><id>http://zaagan.github.io/markdown-common-elements</id><content type="html" xml:base="http://zaagan.github.io/markdown-common-elements/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://zaagan.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://zaagan.github.io/" rel="alternate" type="text/html" /><updated>2018-02-11T18:30:52+05:45</updated><id>http://zaagan.github.io/</id><title type="html">Ozesh Thapa [ a.k.a Zaagan ]</title><subtitle>A blog about technology and stuff</subtitle><entry><title type="html">:notebook: Blockchain - The Future Of Internet</title><link href="http://zaagan.github.io/blockchain-the-future-of-internet/" rel="alternate" type="text/html" title=":notebook: Blockchain - The Future Of Internet" /><published>2018-02-11T18:12:00+05:45</published><updated>2018-02-11T18:12:00+05:45</updated><id>http://zaagan.github.io/blockchain-the-future-of-internet</id><content type="html" xml:base="http://zaagan.github.io/blockchain-the-future-of-internet/">&lt;p&gt;&lt;img src=&quot;http://res.cloudinary.com/dragonx/image/upload/v1518249312/Article/bitcoin_blockchain.png&quot; alt=&quot;Bitcoin_BlockChain&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;You can pick an item to see how to apply in markdown.&lt;/p&gt;
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
-&lt;h3 id=&quot;comum-elements&quot;&gt;Comum Elements&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#basic-formatting&quot;&gt;Basic formatting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#headings&quot;&gt;Headings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lists&quot;&gt;Lists&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#paragraph-modifiers&quot;&gt;Paragraph Modifiers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#urls&quot;&gt;Urls&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#horizontal-rule&quot;&gt;Horizontal Rule&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#images&quot;&gt;Images&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#code&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Getting your hands into a new technology can be a troublesome work and very much time consuming.  With the ever growing field of technology, it is necessary to update yourself with the new tech and trends quite often. That is one thing, but you are not going with your whole day or a week looking into it, unless you are fond of it or that is the only work you have got for today. Hence, this article is like a homework that is done for you with lots and lots of research, blogs, official descriptions and your doctors prescriptions &lt;code class=&quot;highlighter-rouge&quot;&gt;Just kidding&lt;/code&gt;.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Recently, you might have heard or somehow got yourself into this new Noun in the market - ‘&lt;strong&gt;Bitcoin&lt;/strong&gt;’. Well, this article is focused on summarizing you the ingenious invention that is powering it and the potential it holds in the future of the internet. It is called the &lt;strong&gt;BlockChain&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
-
-&lt;p&gt;This note &lt;strong&gt;demonstrates&lt;/strong&gt; some of what &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; is &lt;em&gt;capable of doing&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;And that’s how to do it.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;/h2&gt;
-
-&lt;p&gt;There are six levels of headings. They correspond with the six levels of HTML headings. You’ve probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.&lt;/p&gt;
-
-&lt;h1 id=&quot;headings-can-be-small&quot;&gt;Headings can be small&lt;/h1&gt;
-
-&lt;h2 id=&quot;headings-can-be-small-1&quot;&gt;Headings can be small&lt;/h2&gt;
-
-&lt;h3 id=&quot;headings-can-be-small-2&quot;&gt;Headings can be small&lt;/h3&gt;
-
-&lt;h4 id=&quot;headings-can-be-small-3&quot;&gt;Headings can be small&lt;/h4&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;# Heading
-## Heading
-### Heading
-#### Heading&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
-
-&lt;h3 id=&quot;ordered-list&quot;&gt;Ordered list&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Item 1&lt;/li&gt;
-  &lt;li&gt;A second item&lt;/li&gt;
-  &lt;li&gt;Number 3&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;1. Item 1
-2. A second item
-3. Number 3&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered list&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;An item&lt;/li&gt;
-  &lt;li&gt;Another item&lt;/li&gt;
-  &lt;li&gt;Yet another item&lt;/li&gt;
-  &lt;li&gt;And there’s more…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* An item
-* Another item
-* Yet another item
-* And there's more...&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;paragraph-modifiers&quot;&gt;Paragraph modifiers&lt;/h2&gt;
-
-&lt;h3 id=&quot;quote&quot;&gt;Quote&lt;/h3&gt;
+&lt;p&gt;So lets not waste time and dive into the pool. &lt;code class=&quot;highlighter-rouge&quot;&gt;By the way, I still dont know how to swim, Lazy me :D&lt;/code&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.&lt;/p&gt;
+  &lt;p&gt;Note: All the &lt;strong&gt;bold&lt;/strong&gt; contents have their terminologies defined at the end of the article.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;&amp;gt; Here is a quote. What this is should be self explanatory.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;First of all, Even if you are not a technical person, You surely have the idea about what &lt;strong&gt;Bitcoin&lt;/strong&gt; is. Assuming it some sort of money &lt;code class=&quot;highlighter-rouge&quot;&gt;digital or whatever &lt;/code&gt; that you can use to buy things online, Illegal in some countries while the rest of the world wants to taste a piece of it. Lets save the chapter of Bitcoin for some other day.&lt;/p&gt;
 
-&lt;h2 id=&quot;urls&quot;&gt;URLs&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Origin:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;URLs can be made in a handful of ways:&lt;/p&gt;
+  &lt;p&gt;In 1991, &lt;strong&gt;Stuart Haber&lt;/strong&gt;  and W. Scott Stornetta described the notion of a &lt;strong&gt;&lt;a href=&quot;https://scholar.google.com/citations?user=VD1JyXcAAAAJ&quot;&gt;cryptographically secured chain of blocks&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;A named link to &lt;a href=&quot;http://www.markitdown.net/&quot;&gt;Mark It Down&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Another named link to &lt;a href=&quot;http://markitdown.net/&quot;&gt;Mark It Down&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Sometimes you just want a URL like &lt;a href=&quot;http://markitdown.net/&quot;&gt;http://markitdown.net/&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;p&gt;In 1998, &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Nick_Szabo&quot; title=&quot;A computer scientist, legal scholar and cryptographer known for his research in digital contracts and digital currency&quot;&gt;Nick Szabo&lt;/a&gt;&lt;/strong&gt; did the first recognized work on a Decentralized digital currency on a similar technology&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](http://markitdown.net/)
-* Sometimes you just want a URL like &amp;lt;http://markitdown.net/&amp;gt;.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+  &lt;p&gt;After 10 Years…&lt;/p&gt;
 
-&lt;hr /&gt;
+  &lt;p&gt;In 2008, &lt;strong&gt;Satoshi Nakamoto&lt;/strong&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;(he|they)&lt;/code&gt; published a paper for a &lt;strong&gt;&lt;a href=&quot;https://bitcoin.org/bitcoin.pdf&quot;&gt;Peer-to-Peer Electronic Cash System&lt;/a&gt;&lt;/strong&gt; called &lt;strong&gt;Bitcoin&lt;/strong&gt;, solving the &lt;strong&gt;double-spending problem&lt;/strong&gt; for digital currency. As part of the implementation, they devised a &lt;strong&gt;decentralized&lt;/strong&gt; ledger, secured using &lt;strong&gt;cryptography&lt;/strong&gt; called the &lt;strong&gt;blockchain&lt;/strong&gt; database.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h2 id=&quot;horizontal-rule&quot;&gt;Horizontal rule&lt;/h2&gt;
+&lt;p&gt;That was where blockchain came to life.&lt;/p&gt;
 
-&lt;p&gt;A horizontal rule is a line that goes across the middle of the page.
-It’s sometimes handy for breaking things up.&lt;/p&gt;
+&lt;p&gt;Today Blockchain technology is gaining a mainstream term used by financial and technical media and picking up speed with massive investment being done by legacy software industries like IBM, Microsoft and thousands of Growing Startup companies.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;---&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;the-basic-idea-of-blockchain&quot;&gt;The Basic Idea of Blockchain&lt;/h2&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;In the most simplest of terms,&lt;/p&gt;
 
-&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Blockchain is a &lt;em&gt;large worldwide computer&lt;/em&gt; where everyone can securely access data and execute transactional code. All transactions are stored in blocks of data distributed world wide. These blocks are made in a way that makes them very hard to manipulate or fake once they are stored to the blockchain.&lt;/p&gt;
 
-&lt;p&gt;Markdown can also contain images. I’ll need to add something here sometime.&lt;/p&gt;
+  &lt;p&gt;-&lt;em&gt;Pluralsight (BlockChain Fundamentals) by Jan-Erik Sandberg&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;http://res.cloudinary.com/dragonx/image/upload/v1518339136/Article/blockchain08.jpg&quot; alt=&quot;BlockChain Worldwide&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Imagine an incorruptible, fully transparent ledger that holds all of your account records, duplicated and distributed worldwide across a network of computers. You can securely store your data in a way that can only be accessed by those you allow. No Government, Corporation, Banks have any authority over it.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Figure Caption&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;It is more reliable, secure and extremely fast than going to a bank to transfer money to your relative who lives abroad which takes a lot of time, form fill ups, costs money and uncertainties. With blockchain it is just a matter of seconds.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]
-&amp;lt;figcaption class=&quot;caption&quot;&amp;gt;Photo by John Doe&amp;lt;/figcaption&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
-
-&lt;p&gt;&lt;em&gt;Bigger Images&lt;/em&gt;?&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]{: class=&quot;bigger-image&quot; }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
-
-&lt;p&gt;A HTML Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;lang=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;en&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;UTF-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;Document&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Just a test&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;A CSS Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;.8em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;white-space&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;tt&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Monaco&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Consolas&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Inconsolata&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;monospace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sans-serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rgba&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;.05&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;A JS Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Sticky Header&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;900&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;body&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'show-menu'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;body&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'show-menu'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>ozesh</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Summary:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://zaagan.github.io/assets/images/markdown.jpg" /></entry><entry><title type="html">:ramen: Indigo, minimalist jekyll theme</title><link href="http://zaagan.github.io/projects-sageflick/" rel="alternate" type="text/html" title=":ramen: Indigo, minimalist jekyll theme" /><published>2016-01-23T22:10:00+05:45</published><updated>2016-01-23T22:10:00+05:45</updated><id>http://zaagan.github.io/projects-sageflick</id><content type="html" xml:base="http://zaagan.github.io/projects-sageflick/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;What has inside?&lt;/p&gt;
+&lt;h2 id=&quot;characteristics&quot;&gt;Characteristics&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Gulp&lt;/li&gt;
-  &lt;li&gt;BrowserSync&lt;/li&gt;
-  &lt;li&gt;Stylus&lt;/li&gt;
-  &lt;li&gt;SVG&lt;/li&gt;
-  &lt;li&gt;Travis&lt;/li&gt;
-  &lt;li&gt;No JS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F&quot;&gt;98/100&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Accessible :&lt;/strong&gt; You can access blockchain from anywhere through the internet by using a broad number of clients and technologies.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Unstoppable:&lt;/strong&gt; There is no one in control over a blockchain and has no central failure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No Central Governance :&lt;/strong&gt; No Government, Authorities, Corporations, System Admins have control over it and can censor it.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Highly Hack Resistant :&lt;/strong&gt;  There is not a single point of attack or a power cord to pull. Hacking a blockchain requires hacking each node distributed worldwide simultaneously at the same time.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Verifiable :&lt;/strong&gt;  Anyone who has access to the blockchain can verify every single transaction from the beginning of time &lt;code class=&quot;highlighter-rouge&quot;&gt;Everyone can audit everything&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;h2 id=&quot;blockchain-transactions&quot;&gt;&lt;strong&gt;Blockchain Transactions&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>ozesh</name></author><category term="project" /><category term="jekyll" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry></feed>
+&lt;p&gt;&lt;img src=&quot;http://res.cloudinary.com/dragonx/image/upload/v1518336649/Article/BlockChain.png&quot; alt=&quot;How Transactions Happen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;They are Atomic :&lt;/strong&gt;  They either fully operate or the whole transaction fail.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;They are Independent :&lt;/strong&gt; No two transactions can interact or interfere with one another&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;They are Inspectable :&lt;/strong&gt; Every single method call that comes to blockchain comes with the actual address to the caller. &lt;code class=&quot;highlighter-rouge&quot;&gt;Provides a unique ability for securing and auditing solutions  &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;They are immortal :&lt;/strong&gt; Blockchain objects are immortal, you can never delete an object once created. The only way to remove a blockchain object is if it is programmed to remove itself.&lt;/p&gt;
+
+&lt;h2 id=&quot;practical-implementations&quot;&gt;&lt;strong&gt;Practical Implementations&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tackling issues of financial, political and institutional corruption&lt;/li&gt;
+  &lt;li&gt;Protect the human rights of every individual&lt;/li&gt;
+  &lt;li&gt;Secure money transfer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;usage-of-blockchain-today&quot;&gt;&lt;strong&gt;Usage of Blockchain today&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Digital Currencies (Bitcoin, Ethereum, Ripple)&lt;/li&gt;
+  &lt;li&gt;Secure Information Sharing&lt;/li&gt;
+  &lt;li&gt;Certifications&lt;/li&gt;
+  &lt;li&gt;Internet of things&lt;/li&gt;
+  &lt;li&gt;Stock Trading&lt;/li&gt;
+  &lt;li&gt;Product Lifecycle&lt;/li&gt;
+  &lt;li&gt;Virtual Products&lt;/li&gt;
+  &lt;li&gt;Crown Funding&lt;/li&gt;
+  &lt;li&gt;Identity Management&lt;/li&gt;
+  &lt;li&gt;Smart Contracts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note For Developers:  Blockchain &lt;code class=&quot;highlighter-rouge&quot;&gt;Natively Object Oriented&lt;/code&gt; objects are global singleton instances where code and data reside together. The objects though are securely separated from each other.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;blockchain-internals&quot;&gt;Blockchain Internals&lt;/h2&gt;
+
+&lt;h3 id=&quot;hashing&quot;&gt;&lt;strong&gt;Hashing&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The whole core of blockchain resides in a concept of &lt;strong&gt;hashing&lt;/strong&gt;. Each piece of data in a block is encrypted using a strong &lt;strong&gt;hashing algorithm&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Hashing :&lt;/strong&gt; To execute a mathematical algorithm that creates a result with a fixed length, regardless of the input given. The result of a hashing algorithm is called a &lt;strong&gt;Hash&lt;/strong&gt; or a &lt;strong&gt;Digital Fingerprint&lt;/strong&gt;.&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Hashing is one way :&lt;/strong&gt; The hashing function will always return the same result given the same input but you can never regenerate the input based on the result of the hashing algorithm.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One common hashing algorithm incorporated by Blockchain is the &lt;strong&gt;SHA-256&lt;/strong&gt;. It is one in the family of hashing algorithms. Here is a sample of the the input and the result:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://res.cloudinary.com/dragonx/image/upload/v1518342432/Article/Hashing.png&quot; alt=&quot;SHA-256 Hashing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Try it out on your bash shell&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ echo -n 'Hi! I am Ozesh' | sha256sum
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;SHA-256 : SHA- Name, 256- Complexity&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The number after the name lets you know the complexity of the implementation. The higher the number, the more power it takes to execute.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-blocks&quot;&gt;&lt;strong&gt;The Blocks&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The Blocks in a blockchain are cryptographically secured and linked with one another though they are distributed worldwide. Each block consists of &lt;strong&gt;a block number&lt;/strong&gt;, &lt;strong&gt;Timestamp&lt;/strong&gt;, &lt;strong&gt;Message&lt;/strong&gt;, &lt;strong&gt;Hashing Nounce&lt;/strong&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;a unique machine generated word&lt;/code&gt; , resulting &lt;strong&gt;Hash&lt;/strong&gt; and the &lt;strong&gt;Hash of the previous block&lt;/strong&gt;. This structuring of the blocks in the blockchain is called the &lt;strong&gt;Merkel Tree&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://res.cloudinary.com/dragonx/image/upload/c_scale,w_509/v1518348430/Article/ChainOfBlock.png&quot; alt=&quot;ChainOfBlocks&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hence, If the data in any one of the blocks in the blockchain is tampered with, the resulting hash will be changed resulting in the breakage of all the blocks in the chain.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Hashing Nounce:&lt;/strong&gt; An unpredictable, unique input &lt;code class=&quot;highlighter-rouge&quot;&gt;a word or a set of numbers &lt;/code&gt; to the hashing algorithm that results in the first part of the hash to be something predefined. It can be considered as the proof of work by the machine creating the hash.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The BlockChain itself is distributed to a vast number of computers worldwide. Meaning that the chain  itself exists in multiple locations. Depending on the blockchain implementation, there could be thousands of replications of the blockchain. If somehow, One of the chains has been compromised &lt;code class=&quot;highlighter-rouge&quot;&gt;only a super-super-super computer could do that&lt;/code&gt;, the resulting hashes for the chain would be different. And the altered chain would be rejected and removed by the distributed block chain.&lt;/p&gt;
+
+&lt;h2 id=&quot;points-of-interest&quot;&gt;Points of Interest&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;There were many &lt;code class=&quot;highlighter-rouge&quot;&gt;failed&lt;/code&gt; attempts to create digital money in the nineties prior to Bitcoin&lt;/li&gt;
+    &lt;li&gt;Bitcoin is the first and still the most important cryptocurrency .&lt;/li&gt;
+    &lt;li&gt;There are over 1,300 cryptocurrencies in the world today. Bitcoin being one of them.&lt;/li&gt;
+    &lt;li&gt;Blockchains can be both public and private&lt;/li&gt;
+  &lt;/ol&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;terminologies&quot;&gt;Terminologies&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Stuart Haber :&lt;/strong&gt; Free-lance cryptographer, co-inventor of the blockchain.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Nick Szabo :&lt;/strong&gt; A computer scientist, legal scholar and &lt;a href=&quot;https://en.wikipedia.org/wiki/Cryptography&quot;&gt;cryptographer&lt;/a&gt; known for his research in &lt;a href=&quot;https://en.wikipedia.org/wiki/Smart_contracts&quot;&gt;digital contracts&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Digital_currency&quot;&gt;digital currency&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Satoshi Nakamoto:&lt;/strong&gt;  A man claimed to be born on 5 April 1975 living in Japan.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bitcoin:&lt;/strong&gt; A form of payment network with no central authority or bank; managing transactions and issuing carried out collectively by a network of communicating nodes running bitcoin software. It does not hold any underlying value. Hence, it is not something you can withdraw from the bank.&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;Bitcoin is just a unique string of letters and numbers attached to an owner&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Peer-to-Peer Cash System :&lt;/strong&gt; A Cash system devised in such a way that the underlying components (peers) located on networked computers communicate and coordinate their actions by passing messages.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Double-spending problem:&lt;/strong&gt; A potential flaw in a digital cash scheme  in which the same single digital token can be spent more than once. This is possible because a digital token consists of a digital file that can be duplicated or falsified.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Decentralized:&lt;/strong&gt;  Distributing or dispersing functions, powers, people or things away from a central location or authority.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cryptography:&lt;/strong&gt;   Is about constructing and analyzing communications protocol that prevent third parties or the public from reading private messages.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;https://en.wikipedia.org/wiki/Blockchain&lt;/li&gt;
+  &lt;li&gt;https://www.blockchain.com/&lt;/li&gt;
+  &lt;li&gt;https://app.pluralsight.com/library/courses/blockchain-fundamentals/table-of-contents&lt;/li&gt;
+  &lt;li&gt;https://www.youtube.com/watch?v=Pl8OlkkwRpc&lt;/li&gt;
+  &lt;li&gt;https://www.youtube.com/watch?v=RplnSVTzvnU&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;This article, along with any associated source code and files, is licensed under&lt;/em&gt; &lt;a href=&quot;http://creativecommons.org/licenses/by-nd/3.0/&quot;&gt;The Creative Commons Attribution-NoDerivatives 3.0 Unported&lt;/a&gt;&lt;/p&gt;</content><author><name>ozesh</name></author><category term="blog" /><category term="blockchain" /><category term="hashing" /><category term="cryptocurrency" /><category term="bitcoin" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://zaagan.github.io/assets/images/markdown.jpg" /></entry></feed>

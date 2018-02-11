@@ -1,0 +1,1 @@
+bundle exec jekyll build --destination 'D:\Workspaces\zaagan.github.io\blog-github'
